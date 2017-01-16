@@ -1,0 +1,38 @@
+typography_spectrum: 0.9992673658042924
+color:
+  brandStrength: 0.15836975826872604
+  lightness: 0.45791793918273976
+  saturation: 0.684968927970322
+  rhythmicContrast: 0.7571898210715355
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+github: true
+opengraph:
+  appId: '1197225823666359'
+  type: likes
+layout_spectrum: 0.08654144066911523
+author:
+  name: Click here to view my other services.
+  email: jody@withjody.com
+  url: 'http://withjody.com'
+name: Weddings with Jody
+url: 'http://revjody.com'
+navigation:
+  - name: my other services
+    url: 'http://withjody.com'
+    type: external
+title: weddings with jody
+content: []
+description: 'Rev. Jody Lotito-Levine, Wedding Celebrant'
+purpose:
+  - type: contact
+    url: 'tel:201-388-0069'
+    label: call 201-388-0069
+  - type: external
+    url: >-
+      https://www.weddingwire.com/biz/rev-jody-lotito-levine-hoboken/585a0e146645c20d.html
+    label: visit my wedding wire page
