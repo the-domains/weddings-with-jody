@@ -26,34 +26,7 @@ navigation:
     url: 'http://withjody.com'
     type: external
 title: weddings with jody
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="http://media.virbcdn.com/images/c2/PageImage-509910-3505079-StreetRain_optimized.jpg">
-    src: >-
-      http://media.virbcdn.com/images/c2/PageImage-509910-3505079-StreetRain_optimized.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'http://media.virbcdn.com'
-        name: Virbcdn
-        favicon: null
-        domain: media.virbcdn.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: >-
-        http://media.virbcdn.com/images/c2/PageImage-509910-3505079-StreetRain_optimized.jpg
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: 'Rev. Jody Lotito-Levine, Wedding Celebrant'
 purpose:
   - type: contact
