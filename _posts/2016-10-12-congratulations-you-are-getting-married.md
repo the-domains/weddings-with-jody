@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-02T23:58:29.745Z'
+datePublished: '2017-03-07T20:13:42.883Z'
 sourcePath: _posts/2016-10-12-congratulations-you-are-getting-married.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-02T23:58:29.186Z'
+dateModified: '2017-03-07T20:13:42.137Z'
 title: Congratulations! You are Getting Married!
 publisher: {}
 description: >-
@@ -23,7 +23,7 @@ url: congratulations-you-are-getting-married/index.html
 _type: Article
 
 ---
-![rev. jody](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1273a0e-d601-4a4f-a91e-1ccf7518b425.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1273a0e-d601-4a4f-a91e-1ccf7518b425.jpg)
 
 # Congratulations! You are Getting Married!
 
