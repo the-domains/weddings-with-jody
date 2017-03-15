@@ -44,7 +44,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -61,3 +60,5 @@ purpose:
     url: >-
       https://www.weddingwire.com/biz/rev-jody-lotito-levine-hoboken/585a0e146645c20d.html
     label: visit my wedding wire page
+analytics:
+  google: UA-93747514-1
