@@ -7,15 +7,15 @@ description: >-
   and the importance of our decision to marry created an atmosphere of love and
   exuberance for us and our guests that we will never forget. She is a wonderful
   and positive spirit who I can't say enough good things about!”
-dateModified: '2017-10-07T20:56:00.181Z'
-datePublished: '2017-10-07T20:56:34.702Z'
+dateModified: '2017-10-07T20:58:09.431Z'
+datePublished: '2017-10-07T20:58:10.268Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-10-07-her-presentation-of-the-ceremony-was-flawless-the-speed-a.md
 starred: false
 datePublishedOriginal: '2017-10-07T20:56:34.702Z'
-sourcePath: _posts/2017-10-07-her-presentation-of-the-ceremony-was-flawless-the-speed-a.md
 _type: Blurb
 
 ---
