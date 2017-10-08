@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Photos speak a thousand words.
-dateModified: '2017-10-08T01:00:34.996Z'
-datePublished: '2017-10-08T01:00:35.768Z'
+dateModified: '2017-10-08T01:01:00.847Z'
+datePublished: '2017-10-08T01:01:03.129Z'
 title: Wedding Inspiration
 author: []
 publisher: {}
