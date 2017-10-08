@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Photos speak a thousand words.
-dateModified: '2017-10-08T00:47:05.626Z'
-datePublished: '2017-10-08T00:47:06.079Z'
+dateModified: '2017-10-08T00:53:32.042Z'
+datePublished: '2017-10-08T00:53:33.018Z'
 title: Wedding Inspiration
 author: []
 publisher: {}
@@ -15,14 +15,15 @@ url: creative-wedding-ideas/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f2e3627-30a6-4614-99a6-a024f1cae38e.jpg)
-
 # Wedding Inspiration
 
 Photos speak a thousand words.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e528a8fd-bdc9-483c-8335-c550644da0e1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b321022-668e-4b4d-b436-3eb00da9338f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c99f752f-95ae-44a6-9a85-0905642fdece.jpg)
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4916564f-d9df-49ff-8a95-373889e1d84a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08b3322c-898e-4a15-8b03-00795cf38cec.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4c00ba0-1fe6-4fa1-80c3-5c9d0843d69c.jpg)
