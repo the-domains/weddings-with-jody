@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: Photos speak a thousand words.
-dateModified: '2017-10-08T00:55:51.690Z'
-datePublished: '2017-10-08T00:55:52.385Z'
+dateModified: '2017-10-08T01:00:34.996Z'
+datePublished: '2017-10-08T01:00:35.768Z'
 title: Wedding Inspiration
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ sourcePath: _posts/2017-10-08-creative-wedding-ideas.md
 starred: false
 datePublishedOriginal: '2017-10-08T00:14:20.400Z'
 url: creative-wedding-ideas/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Wedding Inspiration
