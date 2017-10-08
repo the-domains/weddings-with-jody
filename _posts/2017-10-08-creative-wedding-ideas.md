@@ -4,9 +4,9 @@ description: >-
   As a busy wedding officiant, I get to see lots of different expressions of
   personal style and many, many creative ideas for ceremonies, venues, decor and
   hospitality. Here I share my favorites with you. Keep checking back for new
-  ideas! 
-dateModified: '2017-10-08T00:15:01.893Z'
-datePublished: '2017-10-08T00:15:02.704Z'
+  ideas!
+dateModified: '2017-10-08T00:25:00.402Z'
+datePublished: '2017-10-08T00:25:01.250Z'
 title: Creative Wedding Ideas!
 author: []
 publisher: {}
@@ -23,14 +23,14 @@ _type: Article
 
 # Creative Wedding Ideas!
 
-As a busy wedding officiant, I get to see lots of different expressions of personal style and many, many creative ideas for ceremonies, venues, decor and hospitality. Here I share my favorites with you. Keep checking back for new ideas! 
+As a busy wedding officiant, I get to see lots of different expressions of personal style and many, many creative ideas for ceremonies, venues, decor and hospitality. Here I share my favorites with you. Keep checking back for new ideas!
 
 ---
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e528a8fd-bdc9-483c-8335-c550644da0e1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c99f752f-95ae-44a6-9a85-0905642fdece.jpg)
-![At Mike and Patty's wedding, guests were offered currant and coconut sorbet in chocolate-covered waffle cups. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4916564f-d9df-49ff-8a95-373889e1d84a.jpg)
-![We're not "Step." We're not "Half." We're just Family.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08b3322c-898e-4a15-8b03-00795cf38cec.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4916564f-d9df-49ff-8a95-373889e1d84a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08b3322c-898e-4a15-8b03-00795cf38cec.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4c00ba0-1fe6-4fa1-80c3-5c9d0843d69c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec1bafe7-2c03-4c77-8145-c44a2bfb234e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9095879-8b1d-41f6-bda1-da0df773ce6b.jpg)
