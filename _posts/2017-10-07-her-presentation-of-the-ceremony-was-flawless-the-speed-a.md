@@ -7,8 +7,8 @@ description: >-
   and the importance of our decision to marry created an atmosphere of love and
   exuberance for us and our guests that we will never forget. She is a wonderful
   and positive spirit who I can't say enough good things about!”
-dateModified: '2017-10-07T21:04:13.891Z'
-datePublished: '2017-10-07T21:04:14.334Z'
+dateModified: '2017-10-08T00:15:01.893Z'
+datePublished: '2017-10-08T00:15:02.557Z'
 title: Erin and Jason
 author: []
 publisher: {}
