@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'Photos speak a thousand words. '
-dateModified: '2017-10-08T00:45:44.794Z'
-datePublished: '2017-10-08T00:45:45.367Z'
+description: Photos speak a thousand words.
+dateModified: '2017-10-08T00:47:05.626Z'
+datePublished: '2017-10-08T00:47:06.079Z'
 title: Wedding Inspiration
 author: []
 publisher: {}
@@ -19,10 +19,7 @@ _type: Article
 
 # Wedding Inspiration
 
-Photos speak a thousand words. 
-
----
-
+Photos speak a thousand words.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e528a8fd-bdc9-483c-8335-c550644da0e1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b321022-668e-4b4d-b436-3eb00da9338f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c99f752f-95ae-44a6-9a85-0905642fdece.jpg)
