@@ -15,6 +15,8 @@ opengraph:
   appId: '1197225823666359'
   type: likes
 layout_spectrum: 0.08654144066911523
+analytics:
+  google: UA-93747514-1
 author:
   name: Click here to view my other services.
   email: jody@withjody.com
@@ -25,6 +27,9 @@ navigation:
   - name: my other services
     url: 'http://withjody.com'
     type: external
+  - name: Wedding Inspiration
+    id: 264d35e6-dfa6-4f2e-90aa-4b517727c4b8
+    type: content
 title: weddings with jody
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -35,19 +40,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e6a58b7-af58-429f-aa97-cfdca5fc155f.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -59,20 +64,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/dad80538-bd56-4040-a9c2-6217c07c765a.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -85,5 +89,3 @@ purpose:
     url: >-
       https://www.weddingwire.com/biz/rev-jody-lotito-levine-hoboken/585a0e146645c20d.html
     label: visit my wedding wire page
-analytics:
-  google: UA-93747514-1
