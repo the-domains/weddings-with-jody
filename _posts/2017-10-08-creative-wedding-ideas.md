@@ -5,16 +5,16 @@ description: >-
   personal style and many, many creative ideas for ceremonies, venues, decor and
   hospitality. Here I share my favorites with you. Keep checking back for new
   ideas! 
-dateModified: '2017-10-08T00:14:19.214Z'
-datePublished: '2017-10-08T00:14:20.400Z'
+dateModified: '2017-10-08T00:15:01.893Z'
+datePublished: '2017-10-08T00:15:02.704Z'
 title: Creative Wedding Ideas!
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-08-creative-wedding-ideas.md
 starred: false
 datePublishedOriginal: '2017-10-08T00:14:20.400Z'
-sourcePath: _posts/2017-10-08-creative-wedding-ideas.md
 url: creative-wedding-ideas/index.html
 _type: Article
 
