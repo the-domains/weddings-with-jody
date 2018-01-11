@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-01-11T03:51:41.671Z'
+datePublished: '2018-01-11T03:55:25.383Z'
 sourcePath: _posts/2016-10-12-a-little-more-about-my-work.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-01-11T03:51:41.189Z'
+dateModified: '2018-01-11T03:55:23.514Z'
 title: A little more about my work.
 publisher: {}
 description: >-
@@ -29,7 +29,6 @@ _type: Article
 # A little more about my work.
 
 I am an ordained Interfaith and Interspiritual Minister who has been officiating weddings, vow renewels, memorials, and baby blessings for over 10 years from coast to coast and around the world. I am also a spiritual counselor and parent coach who services individuals, couples and families. I have married heterosexual and same sex couples in formal and informal settings of 4 to 400, indoor and outdoor, casual and formal in a wide variety of venues. Iʼve done countless weddings in NYC, along the waterfront in Jersey City and Hoboken, where I live, as well as in the Hudson Valley, Connecticut, Pennsylvania, Florida and abroad.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acef3f12-ab9f-481f-a969-4a58cdf9a463.jpg)
 
 ---
 
