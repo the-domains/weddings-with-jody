@@ -40,8 +40,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/273331830'
 title: 'Eva + John: The Park Savoy'
-datePublished: '2018-07-15T21:20:50.573Z'
-dateModified: '2018-07-15T21:20:47.288Z'
+datePublished: '2018-07-15T21:42:44.420Z'
+dateModified: '2018-07-15T21:42:43.877Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-07-15-eva-john-the-park-savoy.md
