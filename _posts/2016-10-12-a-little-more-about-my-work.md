@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-07-15T21:20:50.475Z'
+datePublished: '2018-07-15T21:40:35.022Z'
 sourcePath: _posts/2016-10-12-a-little-more-about-my-work.md
 inFeed: true
-hasPage: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2018-07-15T21:20:47.288Z'
+dateModified: '2018-07-15T21:40:34.282Z'
 title: A little more about my work.
 publisher: {}
 description: >-
@@ -20,8 +20,7 @@ description: >-
   Pennsylvania, Florida and abroad.
 starred: false
 datePublishedOriginal: '2016-10-15T02:48:01.778Z'
-url: a-little-more-about-my-work/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5200054f-fb56-4134-a957-4b49aab8c49b.jpg)
