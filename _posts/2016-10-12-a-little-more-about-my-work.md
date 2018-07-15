@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-07-15T21:42:44.400Z'
+datePublished: '2018-07-15T21:44:51.814Z'
 sourcePath: _posts/2016-10-12-a-little-more-about-my-work.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2018-07-15T21:42:43.877Z'
+dateModified: '2018-07-15T21:44:51.617Z'
 title: A little more about my work.
 publisher: {}
 description: >-
