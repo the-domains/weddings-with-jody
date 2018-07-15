@@ -1,10 +1,10 @@
 ---
-datePublished: '2018-07-15T21:19:01.416Z'
+datePublished: '2018-07-15T21:20:50.571Z'
 sourcePath: _posts/2016-10-12-a-little-more-about-me-and-love.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2018-07-15T21:18:59.552Z'
+dateModified: '2018-07-15T21:20:47.288Z'
 title: A little more about me and LOVE.
 publisher: {}
 description: >-
